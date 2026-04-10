@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%9A%80+Hello%2C+moi+c'est+Nolan+D'almeida+!+%E2%9C%A8" alt="🚀 Hello, moi c'est Nolan D'almeida ! ✨" />
-  </a>
-</p>
+<h1 align="center">🚀 Hello, moi c'est Nolan D'almeida ! ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Développeur+Web+Full-stack;Passionné+par+React;Étudiant+à+la+Coding+Factory" alt="Typing SVG" />
