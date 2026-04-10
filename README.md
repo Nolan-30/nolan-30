@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hello, moi c'est Nolan D'almeida ! ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&repeat=false&lines=%F0%9F%8E%93+Hello%2C+moi+c'est+Apprenti+D%C3%A9veloppeur+Web+Full+Stack+!+%E2%9C%A8" alt="Nolan D'almeida" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&repeat=false&lines=%F0%9F%8E%93+Hello%2CApprenti+D%C3%A9veloppeur+Web+Full+Stack+!+%E2%9C%A8" alt="Nolan D'almeida" />
 </p>
 
 <!-- <h2 align="center">🎓 Apprenti Développeur Web Full-stack</h2> -->
