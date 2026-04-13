@@ -7,7 +7,7 @@
 <!-- <h2 align="center">🎓 Apprenti Développeur Web Full-stack</h2> -->
 
 <p align="center">
- 🏫 Actuellement en première année à la Coding Factory (ESIEE-IT), je me passionne pour le développement de sites et d'applications web ou mobiles modernes, sécurisés et performants 💡.
+ 🏫 Actuellement en première année de Bachelor Web à la Coding Factory (ESIEE-IT), je me passionne pour le développement de sites et d'applications web ou mobiles modernes, sécurisés et performants 💡.
 </p>
 
 ## 🛠 Compétences Techniques
